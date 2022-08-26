@@ -1,0 +1,27 @@
+﻿Build started 1/21/2015 11:11:39 PM.
+     1>Project "E:\MFC\Game\SameGame\SameGame\SameGame.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\SameGame.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MainFrm.cpp OptionsDialog.cpp SameGame.cpp SameGameDoc.cpp SameGameView.cpp
+         Skipping... (no relevant changes detected)
+         SameGameView.cpp
+         SameGameDoc.cpp
+         SameGame.cpp
+         OptionsDialog.cpp
+         MainFrm.cpp
+       ResourceCompile:
+         C:\Program Files\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\SameGame.res" SameGame.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\MFC\Game\SameGame\Debug\SameGame.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\MFC\Game\SameGame\Debug\SameGame.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\MFC\Game\SameGame\Debug\SameGame.lib" /MACHINE:X86 Debug\SameGame.res
+         Debug\MainFrm.obj
+         Debug\OptionsDialog.obj
+         Debug\SameGame.obj
+         Debug\SameGameBoard.obj
+         Debug\SameGameDoc.obj
+         Debug\SameGameView.obj
+         Debug\stdafx.obj
+         SameGame.vcxproj -> E:\MFC\Game\SameGame\Debug\SameGame.exe
+     1>Done Building Project "E:\MFC\Game\SameGame\SameGame\SameGame.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.31
